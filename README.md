@@ -1,3 +1,2 @@
-In this project we will use linear regression to make prediction on price of the house base on several features such as  age , distant , square_feet and number of the room.
-
 ## 1. Introduction
+      In this project we will use Linear regression model to make a prediction on house_price base on several feature of dataset.
