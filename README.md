@@ -34,4 +34,6 @@ Predicting real estate prices accurately is a significant challenge for buyers, 
 | **3** | 2761.51 | 3 | 63 | 10.34 | 355111.47 |
 | **4** | 1882.92 | 7 | 54 | 25.49 | 234197.12 |
 
+## 4. Data Preprocessing  and Cleaning 
+
 
