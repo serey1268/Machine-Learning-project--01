@@ -7,5 +7,5 @@ Predicting real estate prices accurately is a significant challenge for buyers, 
 ## 2. Objective 
 * To predict the price of the house base on the dataset and feature of dataset . 🏦
 * To build machine learning model such as Linear Regression. 📈
-* To minimize the prediction error by using optimization stredtegy  such like gradient descent. 🧠 
+* To minimize the prediction error by using optimization stredtegy  such like gradient descent. 🧠 📊
   
