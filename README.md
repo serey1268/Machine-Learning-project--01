@@ -35,5 +35,10 @@ Predicting real estate prices accurately is a significant challenge for buyers, 
 | **4** | 1882.92 | 7 | 54 | 25.49 | 234197.12 |
 
 ## 4. Data Preprocessing  and Cleaning 
+* Checking missing value  : since the dataset took from kaggle so there is no missing value .
+* Hanle outlier : Rather than removing extreme data points, outliers within key features like `square_feet` and `price` were intentionally retained because they represent valid, real-world real estate variations—such as luxury mansions or exceptionally remote properties. Removing these records would artificially restrict the model's scope, so they were kept to ensure the Linear Regression model learns to evaluate the full market spectrum, while **Mean Absolute Error (MAE)** was prioritized during evaluation to prevent these extreme points from disproportionately warping the performance analysis.
+
+* 
+
 
 
