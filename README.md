@@ -10,5 +10,5 @@ Predicting real estate prices accurately is a significant challenge for buyers, 
 * To minimize the prediction error by using optimization stredtegy  such like gradient descent. 🧠 📊
 
 ## 3. Dataset Overview
-
-  
+* In this dataset contains 4 features such as :
+    *
