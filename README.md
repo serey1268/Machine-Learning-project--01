@@ -38,6 +38,8 @@ Predicting real estate prices accurately is a significant challenge for buyers, 
 * Checking missing value  : since the dataset took from kaggle so there is no missing value .
 * Hanle outlier : Outliers in `square_feet` and `price` were intentionally retained because they represent valid, real-world market variations like luxury homes. Keeping these data points ensures the model learns the full market spectrum, while **Mean Absolute Error (MAE)** was prioritized during evaluation to accurately measure performance without extreme values skewing the results.
 
+## 5. Exploatory Data Analytic 
+
   
 
 
